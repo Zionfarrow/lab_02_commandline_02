@@ -152,7 +152,7 @@ curl http://foureyes.github.io/mtec1002-spring2014/labs/02/mtec1002-lab-02.zip
 
 Write down the command that you used to uncompress the file.
 ----------
-
+unzip  http://foureyes.github.io/mtec1002-spring2014/labs/02/mtec1002-lab-02.zipts
 
 
 ==========
@@ -160,7 +160,7 @@ Write down the command that you used to uncompress the file.
 
 Copy and paste the output below.
 ----------
-
+tar  http://foureyes.github.io/mtec1002-spring2014/labs/02/mtec1002-lab-02.zip
 
 
 ==========
