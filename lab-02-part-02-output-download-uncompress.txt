@@ -205,7 +205,7 @@ $ tar -cvf stuff.tar stuff
 
 Copy and paste the output below.
 ----------
-
+Failed to open 'stuff.tar'
 
 
 ==========
